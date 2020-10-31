@@ -38,7 +38,7 @@ container.addEventListener('mouseleave', (e) => {
     card.style.transform = `rotateY(0deg) rotateX(0deg)`;
     // Popout
     title.style.transform = "translateZ(0px)";
-     sneaker.style.transform = "translateZ(0px) rotateZ(0deg)";
+    sneaker.style.transform = "translateZ(0px) rotateZ(0deg)";
     description.style.transform = "translateZ(0px)";
     sizes.style.transform = "translateZ(0px)";
     purchase.style.transform = "translateZ(0px)";
